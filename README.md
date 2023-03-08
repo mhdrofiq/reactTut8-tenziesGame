@@ -1,4 +1,4 @@
-# React tutorial project 8 results - Note taking app
+# React tutorial project 8 results - Tenzies Game
 
 This is the result of following a tutorial from freeCodeCamp.org on youtube. [Link to video](https://www.youtube.com/watch?v=bMknfKXIFA8&t=12s&ab_channel=freeCodeCamp.org)
 
