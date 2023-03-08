@@ -6,7 +6,8 @@ This is a dynamic webpage made using ReactJs. The purpose of this project was to
 
 A preview of the page is shown below.
 
-![Preview image](https://github.com/mhdrofiq/react-tutorial-project-8/blob/master/preview1.png)
+![Preview image](https://github.com/mhdrofiq/reactTut8-tenziesGame/blob/master/preview1.png)
 
-![Preview image](https://github.com/mhdrofiq/react-tutorial-project-8/blob/master/preview2.png)
+![Preview image](https://github.com/mhdrofiq/reactTut8-tenziesGame/blob/master/preview2.png)
+
 
